@@ -52,3 +52,5 @@ Algorithm 정리
 [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041)
 
 [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)
+
+[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)
