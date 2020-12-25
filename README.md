@@ -47,10 +47,10 @@ Algorithm 정리
 
 **SQL-Oracle**
 
-[상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)
+[상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/SQL/select01.sql)
 
-[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041)
+[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/SQL/groupby01.sql)
 
-[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)
+[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) :[Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/SQL/groupby02.sql)
 
-[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)
+[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/SQL/isnull01.sql)
