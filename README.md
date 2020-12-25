@@ -1,8 +1,9 @@
 Algorithm 정리
 --
 
-
 **개념**
+
+---
 
 [DFS(깊이 우선 탐색)](https://github.com/kimjinmi/MyAlgorithm/blob/master/Algorithm/dfsExample.java)
 
@@ -28,9 +29,9 @@ Algorithm 정리
 
 
 
+**Baekjoon**
 
-
-**백준알고리즘**
+---
 
 [Q1712(손익분기점)](https://www.acmicpc.net/problem/1712) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/%EB%B0%B1%EC%A4%80/q1712.java)
 
@@ -38,3 +39,14 @@ Algorithm 정리
 
 [Q9095(1, 2, 3 더하기)](https://www.acmicpc.net/problem/9095) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/%EB%B0%B1%EC%A4%80/q9095.java)
 
+
+
+**Programmers**
+
+---
+
+<SQL-Oracle>
+
+[상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)
+
+[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041)
