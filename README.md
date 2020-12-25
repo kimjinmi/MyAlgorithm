@@ -33,11 +33,11 @@ Algorithm 정리
 
 ---
 
-[Q1712(손익분기점)](https://www.acmicpc.net/problem/1712) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/%EB%B0%B1%EC%A4%80/q1712.java)
+[Q1712(손익분기점)](https://www.acmicpc.net/problem/1712) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Baekjoon/q1712.java)
 
-[Q2839(설탕배달)](https://www.acmicpc.net/problem/2839) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/%EB%B0%B1%EC%A4%80/q2839.java)
+[Q2839(설탕배달)](https://www.acmicpc.net/problem/2839) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Baekjoon/q2839.java)
 
-[Q9095(1, 2, 3 더하기)](https://www.acmicpc.net/problem/9095) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/%EB%B0%B1%EC%A4%80/q9095.java)
+[Q9095(1, 2, 3 더하기)](https://www.acmicpc.net/problem/9095) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Baekjoon/q9095.java)
 
 
 
@@ -45,8 +45,10 @@ Algorithm 정리
 
 ---
 
-<SQL-Oracle>
+**SQL-Oracle**
 
 [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)
 
 [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041)
+
+[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)
