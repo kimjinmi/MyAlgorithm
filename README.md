@@ -1,4 +1,4 @@
-Algorithm 정리
+:books: Algorithm 정리
 --
 
 **개념**
@@ -54,3 +54,11 @@ Algorithm 정리
 [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) :[Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/SQL/groupby02.sql)
 
 [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/SQL/isnull01.sql)
+
+[없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)
+
+[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)
+
+[오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)
+
+[보호소에서 중성화한 동물]
