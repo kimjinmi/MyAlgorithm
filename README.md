@@ -61,4 +61,5 @@
 
 [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)
 
-[보호소에서 중성화한 동물]
+[보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)
+
