@@ -23,4 +23,4 @@
 
 **JAVA**
 
-[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) : [Answer]()
+[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/1229.java)
