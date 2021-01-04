@@ -33,10 +33,12 @@
 
 [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/123101.java)
 
-[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/20010101.java)
+[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010101.java)
 
-[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/20010102.java)
+[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010102.java)
 
-[더맵게 ](https://programmers.co.kr/learn/courses/30/lessons/42626):  [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/20010201.java)
+[더맵게 ](https://programmers.co.kr/learn/courses/30/lessons/42626):  [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010201.java)
 
-[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/20010301.java)
+[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010301.java)
+
+[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010401.java)
