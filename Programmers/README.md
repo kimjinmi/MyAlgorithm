@@ -42,3 +42,5 @@
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010301.java)
 
 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010401.java)
+
+[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010402.java)
