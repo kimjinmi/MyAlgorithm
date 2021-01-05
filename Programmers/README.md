@@ -44,3 +44,5 @@
 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010401.java)
 
 [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010402.java)
+
+[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) :  [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010501.java)
