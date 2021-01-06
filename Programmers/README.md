@@ -46,3 +46,5 @@
 [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) : [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010402.java)
 
 [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) :  [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010501.java)
+
+[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) [Answer](https://github.com/kimjinmi/MyAlgorithm/blob/master/Programmers/JAVA/21010601.java)
